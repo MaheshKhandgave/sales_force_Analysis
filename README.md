@@ -62,14 +62,48 @@ Tableau
 
 Salesforce CRM Dataset
 
-📊 Dashboard Previews
-Excel Dashboard
+# 📊 Dashboard Previews
 
-Power BI Dashboard
+---
 
-Tableau Dashboard
+## 🔹 Excel Dashboards
 
-SQL Queries Output
+### Excel Lead Dashboard
+![Excel Lead Dashboard](Excel Lead Dashboard.png)
+
+### Excel Opportunity Dashboard
+![Excel Opportunity Dashboard](Excel Opportunity Dashboard.png)
+
+---
+
+## 🔹 Power BI Dashboards
+
+### Power BI Lead Dashboard
+![Power BI Lead Dashboard](Power BI Lead Dashboard.png)
+
+### Power BI Opportunity Dashboard
+![Power BI Opportunity Dashboard](Power BI Opportunity Dashboard.png)
+
+---
+
+## 🔹 Tableau Dashboards
+
+### Tableau Lead Dashboard
+![Tableau Lead Dashboard](Tableau Lead Dashboard.png)
+
+### Tableau Opportunity Dashboard
+![Tableau Opportunity Dashboard](Tableau Opportunity Dashboard.png)
+
+---
+
+## 🔹 SQL Query Outputs
+
+![SQL Output 1](sql.png (2).png)
+
+![SQL Output 2](sql.png (3).png)
+
+![SQL Output 3](sql.png (4).png)
+
 
 🚀 Key Features / Highlights
 
