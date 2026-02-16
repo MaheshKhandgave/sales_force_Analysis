@@ -1,74 +1,106 @@
-🚀 Salesforce CRM Sales Analytics Project
-📌 Project Title
+📥 Download Project Files
+### 🔹 Excel Dashboard  
+[Download Excel Dashboard (.xlsx)](https://docs.google.com/spreadsheets/d/1BWGaSDtDAXhyVyVR81eTcO02tbBRYSDQ/export?format=xlsx)
 
-Salesforce Analytics – Discovering New Opportunities With Advanced Insights
-
-👨‍💻 Team Members
-
-Shazia
-
-Shikha
-
-Suriya
-
-Mahesh Khandgave
-
-Vijay Reddy
+### 🔹 Power BI Report  
+[Download Power BI File (.pbix)](https://drive.google.com/uc?export=download&id=1WOQOmkYUT7ue0nT4YFJ-AJKCwPmmq0tj)
 
 
-🏢 Business Background
+### 🔹 Tableau Dashboard  
+[Download Tableau Dashboard (.twbx)](https://drive.google.com/uc?export=download&id=1IGG3p2AzWfuwHGswBGJOpXAxPUALzTBq)
 
-Axon is a growing retail and consumer products company using Salesforce CRM to manage:
+### 🔹 SQL Queries  
+[Download SQL Queries File](https://drive.google.com/uc?export=download&id=1BHrdbWshssLzxQzzJBc2Uzjm7UniOWdL)
 
-Leads
+### 🔹 PPT  
 
-Accounts
+[Download Project PPT (.pptx)](https://docs.google.com/presentation/d/1NE8LWj6eWWGGtUOjQ97a6yz55C6ABTrz/export/pptx)
 
-Opportunities
 
-Revenue
+🚀 Salesforce CRM Sales Analytics – End-to-End Data Analytics Project
+📌 Project Description
 
-With increasing sales data, manual analysis became inefficient.
-This project transforms raw Salesforce CRM data into meaningful insights using Business Intelligence tools.
+This is an end-to-end Salesforce CRM Sales Analytics Project built using Excel, SQL, Power BI, and Tableau.
 
-🎯 Project Objective
+The project focuses on:
 
-Improve Sales Performance
+Lead Analysis
 
-Increase Pipeline Visibility
+Opportunity Performance
 
-Track Lead & Opportunity Performance
+Sales Trend Monitoring
 
-Enable Data-Driven Decision Making
+Industry & Regional Insights
 
-Identify High-Performing Sources, Products & Industries
+Business Growth Recommendations
 
-🛠️ Tools & Technologies Used
+The objective is to convert raw Salesforce CRM data into meaningful business insights that improve sales performance and decision-making.
 
-Microsoft Excel (Data Cleaning & Dashboard)
+🔎 Project Overview
 
-SQL (Data Extraction & Analysis)
+Objective:
+Analyze Leads, Opportunities, Products, Revenue, and Sales Stages to improve pipeline visibility and business growth.
 
-Power BI (Interactive Dashboard)
+Business Case:
+Axon is a growing retail and consumer products company using Salesforce CRM to manage sales activities.
+With increasing data volume, manual analysis became inefficient — hence BI dashboards were developed.
 
-Tableau (Advanced Visualization)
+📊 Dataset Includes
+
+Lead ID, Lead Source, Industry, Lead Status,
+Opportunity ID, Stage, Product, Revenue, Country, Discount, Close Status
+
+🛠 Tools Used
+
+Microsoft Excel
+
+SQL
+
+Power BI
+
+Tableau
 
 Salesforce CRM Dataset
 
-📊 Key KPIs Tracked
-🔹 Lead KPIs
+📊 Dashboard Previews
+Excel Dashboard
+
+Power BI Dashboard
+
+Tableau Dashboard
+
+SQL Queries Output
+
+🚀 Key Features / Highlights
+
+Interactive Lead Funnel Analysis
+
+Opportunity Stage Tracking (Closed-Won / Closed-Lost)
+
+Industry-wise Performance Analysis
+
+Country-wise Sales Distribution
+
+Monthly Sales Trend Analysis
+
+Discount Impact Evaluation
+
+Top Lead Sources Identification
+
+Product Demand Analysis
+
+📊 Key KPIs
+🔹 Leads
 
 Total Leads: 10,000
 
 Converted Leads: 1,033
 
-Lead Status Distribution
+High-performing Sources: Website, Webinar
 
-Top Lead Sources
+Majority Leads in Converted & Working Status
 
-Industry-wise Lead Distribution
-
-🔹 Opportunity KPIs
+🔹 Opportunities
 
 Total Opportunities: 4,648
 
@@ -76,104 +108,27 @@ Won Opportunities: 1,446
 
 Total Opportunity Value: 4.65K
 
-Opportunity Stage Distribution
+Most Demanded Products: Systems & Services
 
-Country-wise Opportunity Spread
+Strong performance across multiple regions
 
-Product Performance
+🧠 Key Insights
 
-Discount Impact Analysis
+Mid-year months show highest lead generation
 
-📈 Dashboard Insights
-🔍 Lead Dashboard Insights
+High conversion from specific industries
 
-Strong lead inflow (10K total leads)
+Closed-Won & Closed-Lost stages dominate pipeline
 
-Mid-year months show highest lead generation (seasonal demand trend)
+Discounts impact yearly revenue trends
 
-Website & Webinar are top-performing lead sources
+COVID impact on opportunities was minimal
 
-Majority leads are in Converted & Working status
-
-Very few leads marked as Dead/Not Contacted (effective follow-ups)
-
-Specific industries contribute more leads (high-potential sectors identified)
-
-💼 Opportunity Dashboard Insights
-
-High number of Won opportunities
-
-Closed-Won & Closed-Lost stages show clear deal outcomes
-
-Sales concentrated in specific industries
-
-Opportunities distributed across multiple countries
-
-COVID impact was minimal on overall opportunity performance
-
-Systems & Services are most demanded products
-
-Monthly sales trends analyzed
-
-Discount impact evaluated on yearly basis
-
-📊 Power BI Dashboard
-
-Power BI dashboard includes:
-
-Lead Funnel Analysis
-
-Opportunity Stage Analysis
-
-Industry-wise Sales Performance
-
-Regional Performance Overview
-
-KPI Cards (Total Leads, Won Deals, Revenue)
-
-Interactive Filters & Drill-down Analysis
-
-📊 Tableau Dashboard
-
-Tableau dashboard provides:
-
-Leads Section:
-
-Yearly Lead Status Trend
-
-Top 5 Lead Sources
-
-Lead Feedback Analysis
-
-Lead Interested Status
-
-Opportunities Section:
-
-Monthly Sold Products Trend
-
-Most Used Products
-
-Yearly Discount Analysis
-
-Lost Reason Analysis
-
-🗄️ SQL Analysis
-
-SQL queries were used to:
-
-Extract relevant CRM data
-
-Calculate KPIs
-
-Perform aggregations
-
-Analyze trends
-
-Generate dashboard-ready datasets
+Systems & Services are top-selling categories
 
 📈 Business Impact
 
-This project helps management to:
+This project helps organizations to:
 
 Strengthen high-performing lead sources
 
@@ -181,36 +136,57 @@ Improve lead qualification process
 
 Reduce opportunity loss reasons
 
-Focus on high-demand products & industries
+Focus on high-demand industries
 
-Enable continuous monitoring & automation
+Enable continuous performance monitoring
 
-Make strategic data-driven decisions
+Support data-driven strategic decisions
 
-🔮 Growth & Efficiency Improvement Plan
+📁 File Structure
 
-Improve lead quality scoring
+Salesforce-CRM-Analytics/
+│
+├── excel/
+│ ├── sales_dashboard.xlsx
+│ └── dashboard_image.png
+│
+├── powerbi/
+│ ├── salesforce.pbix
+│ └── powerbi_dashboard.png
+│
+├── tableau/
+│ ├── salesforce_dashboard.twbx
+│ └── tableau_dashboard.png
+│
+├── sql/
+│ └── crm_queries.sql
+│
+├── documentation/
+│ ├── project_report.pdf
+│ └── project_presentation.pptx
+│
+└── README.md
 
-Target high-conversion industries
+▶️ How to Use This Project
 
-Optimize discount strategies
+Download files from the links above.
 
-Monitor pipeline performance regularly
+Excel → Open Dashboard sheet.
 
-Automate dashboard reporting
+Power BI → Open .pbix and refresh data.
 
-📂 Project Files
+SQL → Run queries for KPIs.
 
-salesforce.pbix – Power BI Dashboard
+Tableau → Open .twbx for interactive dashboards.
 
-Tableau file.twbx – Tableau Dashboard
+👨‍💻 Author
 
-Lead & Opp Dashboard.xlsx – Excel Dashboard
+Mahesh Khandgave
+LinkedIn: https://www.linkedin.com/in/mahesh-khandgave-3457a4343/
 
-queries for crm project.sql – SQL Queries
+Email: khandgavemahesh@gmail.com
 
-FINAL PROJECT PPT(SALESFORCE ANALYTICS).pptx – Presentation
+⚠️ Data Privacy & Disclaimer
 
-💡 Conclusion
-
-This project demonstrates how Salesforce CRM data combined with BI tools like Power BI and Tableau can significantly enhance sales visibility, operational efficiency, and strategic decision-making.
+This project is created for educational and analytical purposes using Salesforce CRM training data.
+The dataset is used only for academic and portfolio demonstration.
