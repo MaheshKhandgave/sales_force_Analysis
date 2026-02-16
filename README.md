@@ -61,48 +61,41 @@ Power BI
 Tableau
 
 Salesforce CRM Dataset
-
-# 📊 Dashboard Previews
-
 ---
+# 📊 Dashboard Previews
 
 ## 🔹 Excel Dashboards
 
-### Excel Lead Dashboard
-![Excel Lead Dashboard](Excel Lead Dashboard.png)
+![Excel Lead Dashboard](Excel%20Lead%20Dashboard.png)
 
-### Excel Opportunity Dashboard
-![Excel Opportunity Dashboard](Excel Opportunity Dashboard.png)
+![Excel Opportunity Dashboard](Excel%20Opportunity%20Dashboard.png)
 
 ---
 
 ## 🔹 Power BI Dashboards
 
-### Power BI Lead Dashboard
-![Power BI Lead Dashboard](Power BI Lead Dashboard.png)
+![Power BI Lead Dashboard](Power%20BI%20Lead%20Dashboard.png)
 
-### Power BI Opportunity Dashboard
-![Power BI Opportunity Dashboard](Power BI Opportunity Dashboard.png)
+![Power BI Opportunity Dashboard](Power%20BI%20Opportunity%20Dashboard.png)
 
 ---
 
 ## 🔹 Tableau Dashboards
 
-### Tableau Lead Dashboard
-![Tableau Lead Dashboard](Tableau Lead Dashboard.png)
+![Tableau Lead Dashboard](Tableau%20Lead%20Dashboard.png)
 
-### Tableau Opportunity Dashboard
-![Tableau Opportunity Dashboard](Tableau Opportunity Dashboard.png)
+![Tableau Opportunity Dashboard](Tableau%20Opportunity%20Dashboard.png)
 
 ---
 
 ## 🔹 SQL Query Outputs
 
-![SQL Output 1](sql.png (2).png)
+![SQL Output 1](sql.png%20(2).png)
 
-![SQL Output 2](sql.png (3).png)
+![SQL Output 2](sql.png%20(3).png)
 
-![SQL Output 3](sql.png (4).png)
+![SQL Output 3](sql.png%20(4).png)
+
 
 
 🚀 Key Features / Highlights
