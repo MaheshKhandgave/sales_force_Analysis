@@ -1,68 +1,69 @@
-📥 Download Project Files
-### 🔹 Excel Dashboard  
-[Download Excel Dashboard (.xlsx)](https://docs.google.com/spreadsheets/d/1BWGaSDtDAXhyVyVR81eTcO02tbBRYSDQ/export?format=xlsx)
+# 🚀 Salesforce CRM Sales Analytics  
+### End-to-End Data Analytics Project  
 
-### 🔹 Power BI Report  
-[Download Power BI File (.pbix)](https://drive.google.com/uc?export=download&id=1WOQOmkYUT7ue0nT4YFJ-AJKCwPmmq0tj)
+---
 
+## 📥 Download Project Files
 
-### 🔹 Tableau Dashboard  
-[Download Tableau Dashboard (.twbx)](https://drive.google.com/uc?export=download&id=1IGG3p2AzWfuwHGswBGJOpXAxPUALzTBq)
+| Component | Access |
+|------------|--------|
+| 📊 Excel Dashboard | [Download (.xlsx)](https://docs.google.com/spreadsheets/d/1BWGaSDtDAXhyVyVR81eTcO02tbBRYSDQ/export?format=xlsx) |
+| 📈 Power BI Report | [Download (.pbix)](https://drive.google.com/uc?export=download&id=1WOQOmkYUT7ue0nT4YFJ-AJKCwPmmq0tj) |
+| 📉 Tableau Dashboard | [Download (.twbx)](https://drive.google.com/uc?export=download&id=1IGG3p2AzWfuwHGswBGJOpXAxPUALzTBq) |
+| 🗄 SQL Queries | [Download (.sql)](https://drive.google.com/uc?export=download&id=1BHrdbWshssLzxQzzJBc2Uzjm7UniOWdL) |
+| 📑 Project PPT | [Download (.pptx)](https://docs.google.com/presentation/d/1NE8LWj6eWWGGtUOjQ97a6yz55C6ABTrz/export/pptx) |
 
-### 🔹 SQL Queries  
-[Download SQL Queries File](https://drive.google.com/uc?export=download&id=1BHrdbWshssLzxQzzJBc2Uzjm7UniOWdL)
+---
 
-### 🔹 PPT  
+## 📌 Project Description
 
-[Download Project PPT (.pptx)](https://docs.google.com/presentation/d/1NE8LWj6eWWGGtUOjQ97a6yz55C6ABTrz/export/pptx)
+This is an end-to-end **Salesforce CRM Sales Analytics Project** built using:
 
-
-🚀 Salesforce CRM Sales Analytics – End-to-End Data Analytics Project
-📌 Project Description
-
-This is an end-to-end Salesforce CRM Sales Analytics Project built using Excel, SQL, Power BI, and Tableau.
+> Excel • SQL • Power BI • Tableau  
 
 The project focuses on:
 
-Lead Analysis
+- Lead Analysis  
+- Opportunity Performance  
+- Sales Trend Monitoring  
+- Industry & Regional Insights  
+- Business Growth Recommendations  
 
-Opportunity Performance
+The objective is to transform raw Salesforce CRM data into meaningful business insights that improve sales performance and strategic decision-making.
 
-Sales Trend Monitoring
+---
 
-Industry & Regional Insights
+## 🔎 Project Overview
 
-Business Growth Recommendations
-
-The objective is to convert raw Salesforce CRM data into meaningful business insights that improve sales performance and decision-making.
-
-🔎 Project Overview
-
-Objective:
+### 🎯 Objective
 Analyze Leads, Opportunities, Products, Revenue, and Sales Stages to improve pipeline visibility and business growth.
 
-Business Case:
-Axon is a growing retail and consumer products company using Salesforce CRM to manage sales activities.
-With increasing data volume, manual analysis became inefficient — hence BI dashboards were developed.
+### 🏢 Business Case
+Axon is a growing retail and consumer products company using Salesforce CRM to manage sales activities.  
+With increasing data volume, manual analysis became inefficient — therefore BI dashboards were developed.
 
-📊 Dataset Includes
-
-Lead ID, Lead Source, Industry, Lead Status,
-Opportunity ID, Stage, Product, Revenue, Country, Discount, Close Status
-
-🛠 Tools Used
-
-Microsoft Excel
-
-SQL
-
-Power BI
-
-Tableau
-
-Salesforce CRM Dataset
 ---
+
+## 📊 Dataset Includes
+
+`Lead ID` • `Lead Source` • `Industry` • `Lead Status`  
+`Opportunity ID` • `Stage` • `Product` • `Revenue` • `Country` • `Discount` • `Close Status`
+
+---
+
+## 🛠 Tools Used
+
+- 📊 Microsoft Excel  
+- 🗄 SQL  
+- 📈 Power BI  
+- 📉 Tableau  
+- ☁ Salesforce CRM Dataset  
+
+---
+
 # 📊 Dashboard Previews
+
+---
 
 ## 🔹 Excel Dashboards
 
@@ -96,124 +97,108 @@ Salesforce CRM Dataset
 
 ![SQL Output 3](sql.png%20(4).png)
 
+---
 
+## 🚀 Key Features
 
-🚀 Key Features / Highlights
+✔ Interactive Lead Funnel Analysis  
+✔ Opportunity Stage Tracking (Closed-Won / Closed-Lost)  
+✔ Industry-wise Performance Analysis  
+✔ Country-wise Sales Distribution  
+✔ Monthly Sales Trend Analysis  
+✔ Discount Impact Evaluation  
+✔ Top Lead Sources Identification  
+✔ Product Demand Analysis  
 
-Interactive Lead Funnel Analysis
+---
 
-Opportunity Stage Tracking (Closed-Won / Closed-Lost)
+## 📊 Key KPIs
 
-Industry-wise Performance Analysis
+### 🔹 Leads
+- **Total Leads:** 10,000  
+- **Converted Leads:** 1,033  
+- **Top Sources:** Website, Webinar  
+- Majority Leads in Converted & Working Status  
 
-Country-wise Sales Distribution
+### 🔹 Opportunities
+- **Total Opportunities:** 4,648  
+- **Won Opportunities:** 1,446  
+- **Total Opportunity Value:** 4.65K  
+- Most Demanded Products: Systems & Services  
+- Strong performance across multiple regions  
 
-Monthly Sales Trend Analysis
+---
 
-Discount Impact Evaluation
+## 🧠 Key Insights
 
-Top Lead Sources Identification
+- Mid-year months show highest lead generation  
+- High conversion from specific industries  
+- Closed-Won & Closed-Lost stages dominate pipeline  
+- Discounts impact yearly revenue trends  
+- COVID impact on opportunities was minimal  
+- Systems & Services are top-selling categories  
 
-Product Demand Analysis
+---
 
-📊 Key KPIs
-🔹 Leads
-
-Total Leads: 10,000
-
-Converted Leads: 1,033
-
-High-performing Sources: Website, Webinar
-
-Majority Leads in Converted & Working Status
-
-🔹 Opportunities
-
-Total Opportunities: 4,648
-
-Won Opportunities: 1,446
-
-Total Opportunity Value: 4.65K
-
-Most Demanded Products: Systems & Services
-
-Strong performance across multiple regions
-
-🧠 Key Insights
-
-Mid-year months show highest lead generation
-
-High conversion from specific industries
-
-Closed-Won & Closed-Lost stages dominate pipeline
-
-Discounts impact yearly revenue trends
-
-COVID impact on opportunities was minimal
-
-Systems & Services are top-selling categories
-
-📈 Business Impact
+## 📈 Business Impact
 
 This project helps organizations to:
 
-Strengthen high-performing lead sources
+- Strengthen high-performing lead sources  
+- Improve lead qualification process  
+- Reduce opportunity loss reasons  
+- Focus on high-demand industries  
+- Enable continuous performance monitoring  
+- Support data-driven strategic decisions  
 
-Improve lead qualification process
+---
 
-Reduce opportunity loss reasons
-
-Focus on high-demand industries
-
-Enable continuous performance monitoring
-
-Support data-driven strategic decisions
-
-📁 File Structure
+## 📁 Repository Structure
 
 Salesforce-CRM-Analytics/
 │
 ├── excel/
-│ ├── sales_dashboard.xlsx
-│ └── dashboard_image.png
+│   ├── sales_dashboard.xlsx
+│   └── dashboard_image.png
 │
 ├── powerbi/
-│ ├── salesforce.pbix
-│ └── powerbi_dashboard.png
+│   ├── salesforce.pbix
+│   └── powerbi_dashboard.png
 │
 ├── tableau/
-│ ├── salesforce_dashboard.twbx
-│ └── tableau_dashboard.png
+│   ├── salesforce_dashboard.twbx
+│   └── tableau_dashboard.png
 │
 ├── sql/
-│ └── crm_queries.sql
+│   └── crm_queries.sql
 │
 ├── documentation/
-│ ├── project_report.pdf
-│ └── project_presentation.pptx
+│   ├── project_report.pdf
+│   └── project_presentation.pptx
 │
 └── README.md
 
-▶️ How to Use This Project
+---
 
-Download files from the links above.
+## ▶️ How to Use
 
-Excel → Open Dashboard sheet.
+1. Download required files from above links  
+2. Open Excel Dashboard  
+3. Open Power BI `.pbix` and refresh data  
+4. Run SQL queries for KPI validation  
+5. Open Tableau `.twbx` for interactive analysis  
 
-Power BI → Open .pbix and refresh data.
+---
 
-SQL → Run queries for KPIs.
+## 👨‍💻 Author
 
-Tableau → Open .twbx for interactive dashboards.
+**Mahesh Khandgave**  
+🔗 LinkedIn: https://www.linkedin.com/in/mahesh-khandgave-3457a4343/  
+📧 Email: khandgavemahesh@gmail.com  
 
-👨‍💻 Author
+---
 
-Mahesh Khandgave
-LinkedIn: https://www.linkedin.com/in/mahesh-khandgave-3457a4343/
+## ⚠️ Disclaimer
 
-Email: khandgavemahesh@gmail.com
-
-⚠️ Data Privacy & Disclaimer
-
-This project is created for educational and analytical purposes using Salesforce CRM training data.
-The dataset is used only for academic and portfolio demonstration.
+This project is created for educational and portfolio purposes using Salesforce CRM training data.  
+The dataset is used only for academic and demonstration purposes.
